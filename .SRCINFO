@@ -1,0 +1,15 @@
+pkgbase = helloworld
+	pkgdesc = Hello World
+	pkgver = 1.0.0
+	pkgrel = 1
+	url = http://www.example.com
+	arch = any
+	license = MIT
+	depends = python
+	source = helloworld.py
+	sha256sums = 61b911f2d8b9e9f52e512aa7e273240cbd26bcaf0a5cae4abed5a7a53fdde6e7
+
+pkgname = helloworld
+
+pkgname = hw
+
